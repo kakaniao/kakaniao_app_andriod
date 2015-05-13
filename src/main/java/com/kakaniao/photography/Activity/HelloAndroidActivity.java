@@ -1,4 +1,8 @@
-package com.kakaniao.photography;
+package com.kakaniao.photography.Activity;
+
+import com.kakaniao.photography.R;
+import com.kakaniao.photography.R.layout;
+import com.kakaniao.photography.R.menu;
 
 import android.app.Activity;
 import android.os.Bundle;
